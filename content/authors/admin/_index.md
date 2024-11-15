@@ -35,7 +35,7 @@ profiles:
   - icon: brands/x
     url: https://x.com/yashgyy
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url:  https://www.instagram.com/_ethereal_expressions/
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/yashsinghaldev/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
